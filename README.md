@@ -10,14 +10,19 @@ This section contains my daily learnings, where I document key concepts, insight
 - [04 Day](Daily-Learning/04%20Day.docx) - Topics covered on Day 4  
 - ... (and so on)  
 
+## 📝 Assignments  
 
+This section contains my assignment-related work. Currently, I am working on the **Courier Management System**, which focuses on database interaction, control flow statements, object-oriented programming principles, and unit testing.  
 
-## 📝 **2. Assignments**  
-All assignment-related submissions, including:  
-- Markdown or Word documents explaining solutions  
-- Source code files (if applicable)  
-- Screenshots or supporting images  
+### 📦 **Assignment: Courier Management System**  
+The **Courier Management System** is designed to streamline the process of handling courier deliveries. The project involves:  
+- Implementing **SQL** for efficient database interaction  
+- Using **control flow statements, loops, arrays, and collections** for logic implementation  
+- Handling **user-defined exceptions** to ensure robust error management  
+- Following **object-oriented principles** with proper class structures  
+- Performing **unit testing** to validate system functionality
 
+  
 ## 🔍 **3. Case Studies**  
 This section contains project-based learning, including case studies with complete documentation, project files, and analysis reports.  
 
