@@ -5,8 +5,9 @@ Welcome to my **Training Program Repository**, where I document my learning jour
 ## 📚 **1. Daily Learning**  
 This section contains my daily learnings, where I document key concepts, insights, and notes from each day.  
 
-- [01,02,03 Day](Daily-Learning/01,02,03%20Day.docx) - Topics covered in first three days  
+- [01,02,03 Day](Daily-Learning/01%2C02%2C03%20Day.docx) - Topics covered in the first three days  
 - [04 Day](Daily-Learning/04%20Day.docx) - Topics covered on Day 4  
+
 - ... (and so on)  
 
 
