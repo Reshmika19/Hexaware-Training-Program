@@ -10,7 +10,7 @@ This section contains my daily learnings, where I document key concepts, insight
 - [04 Day](Daily-Learning/04%20Day.docx) - Topics covered on Day 4  
 - ... (and so on)  
 
-## 📝 Assignments  
+## 📝 **2. Assignments** 
 
 This section contains my assignment-related work. Currently, I am working on the **Courier Management System**, which focuses on database interaction, control flow statements, object-oriented programming principles, and unit testing.  
 
