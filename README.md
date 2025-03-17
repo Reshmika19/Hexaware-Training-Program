@@ -28,7 +28,7 @@ This section contains project-based learning, including case studies with comple
 
 ## 📌 **Trello Board**  
 I use Trello to manage my tasks and track progress. Access my workspace here:  
-🔗 [Trello Workspace]([YOUR_TRELLO_LINK_HERE](https://trello.com/invite/b/67d27948a43ac3eafe8ab533/ATTI31d7e1201e52bff1fe604b2dce340a06A180F999/hexaware-technical-training))  
+🔗 [Trello Workspace]([https://trello.com/invite/b/67d27948a43ac3eafe8ab533/ATTI31d7e1201e52bff1fe604b2dce340a06A180F999/hexaware-technical-training])  
 
 ## 🎯 **Goals of This Repository**  
 - 📖 Keep a structured record of my learning  
