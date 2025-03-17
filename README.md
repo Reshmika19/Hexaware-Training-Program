@@ -2,28 +2,6 @@
 
 Welcome to my **Training Program Repository**, where I document my learning journey, assignments, and case studies. This repository helps track my progress, store reference materials, and organize my work efficiently.  
 
-## 📂 Repository Structure  
-
-📦 Training-Program
-│-- 📁 Daily-Learning
-│ │-- 📄 Day-1.md
-│ │-- 📄 Day-2.md
-│ │-- ...
-│
-│-- 📁 Assignments
-│ │-- 📄 Assignment-1.md
-│ │-- 📷 Images/ (related images)
-│ │-- 📝 Source Code Files
-│
-│-- 📁 Case-Study
-│ │-- 📄 CaseStudy-1.md
-│ │-- 📂 Project Files/
-│ │-- 📝 Documentation.md
-│
-│-- 📄 README.md
-│-- 🔗 Trello Workspace Link
-
-
 ## 📚 **1. Daily Learning**  
 This section contains my daily learnings, where I document key concepts, insights, and notes from each day.  
 
