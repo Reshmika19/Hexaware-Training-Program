@@ -1,17 +1,10 @@
 # Hexaware Training Program Repository  - PGET
 
-Welcome to my **Training Program Repository**, where I document my learning journey, assignments, and case studies. This repository helps track my progress, store reference materials, and organize my work efficiently.  
-
-## 📚 **1. Daily Learning**  
-
-This section contains my understanding of each day's learning. I document key concepts, insights, and notes to easily revisit and review them.  
+Welcome to my **Training Program Repository**, where I document my  assignments, and case studies. This repository helps track my progress, store reference materials, and organize my work efficiently.  
 
 
-- [01,02,03 Day](Daily%20Learnings/01%2C02%2C03%20Day.docx) - Topics covered in the first three days  
-- [04 Day](Daily-Learning/04%20Day.docx) - Topics covered on Day 4  
-- ... (and so on)  
 
-## 📝 **2. Assignments** 
+## 📝 **Assignments** 
 
 This section contains my assignment-related work. Currently, I am working on the **Courier Management System**, which focuses on database interaction, control flow statements, object-oriented programming principles, and unit testing.  
 
@@ -24,7 +17,7 @@ The **Courier Management System** is designed to streamline the process of handl
 - Performing **unit testing** to validate system functionality
 
   
-## 🔍 **3. Case Studies**  
+## 🔍 **Case Studies**  
 This section contains project-based learning, including case studies with complete documentation, project files, and analysis reports.  
 
 ## 📌 **Trello Board**  
