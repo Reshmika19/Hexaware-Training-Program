@@ -2,7 +2,7 @@
 
 Welcome to my **Training Program Repository**, where I document my  assignments, and case studies. This repository helps track my progress, store reference materials, and organize my work efficiently.  
 
-
+---
 
 ## 📝 **Assignments** 
 
@@ -42,8 +42,6 @@ In this challenge, I performed various database operations to manage an e-commer
 By working with these queries, I gained hands-on experience in managing e-commerce databases, **optimizing business logic**, and making **data-driven decisions** for improved system efficiency. 🚀  
 
 ---
-
-Let me know if you'd like any refinements! 😊
 
 ## 📌 **Trello Board**  
 I use Trello to manage my tasks and track progress. Access my workspace here:  
