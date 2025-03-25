@@ -31,7 +31,7 @@ The **Finance Management System** is designed to help users manage and track the
   
 ## 🛒 **Coding Challenge**  
 
-### 🛠 **Key Operations Performed**
+### 🛠 **E-Commerce : Key Operations Performed**
 In this challenge, I performed various database operations to manage an e-commerce system efficiently. The tasks involved **updating records, retrieving specific data, filtering information using conditions, and utilizing subqueries for complex data retrieval**.  
 
 - **Modifying product details** → Updating prices, adjusting stock levels, and managing inventory.  
