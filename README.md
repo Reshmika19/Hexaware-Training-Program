@@ -16,8 +16,11 @@ The **Courier Management System** is designed to streamline the process of handl
 - Following **object-oriented principles** with proper class structures  
 - Performing **unit testing** to validate system functionality
 
-  
-## 🔍 **Case Studies : Finance Management System**  
+## 🔍 **Case Studies: Finance Management System**  
+
+This section contains project-based learning, including case studies with complete documentation, project files, and analysis reports. The **Finance Management System** focuses on implementing **SQL, object-oriented principles, control flow statements, exception handling, and unit testing** to build a robust financial tracking solution.  
+
+### 🛠 **Case Studies : Finance Management System**  
 The **Finance Management System** is designed to help users manage and track their financial transactions efficiently. The project involves:  
 - **Database integration using SQL** for storing transaction records  
 - **Control flow statements, loops, arrays, and collections** for logic implementation  
@@ -26,11 +29,11 @@ The **Finance Management System** is designed to help users manage and track the
 - **Unit testing** for validating system functionality
 
   
-## 🛒 **Coding Challenge: E-Commerce**  
+## 🛒 **Coding Challenge**  
 
+### 🛠 **Key Operations Performed**
 In this challenge, I performed various database operations to manage an e-commerce system efficiently. The tasks involved **updating records, retrieving specific data, filtering information using conditions, and utilizing subqueries for complex data retrieval**.  
 
-### 🛠 **Key Operations Performed**  
 - **Modifying product details** → Updating prices, adjusting stock levels, and managing inventory.  
 - **Handling customer orders and cart items** → Ensuring efficient order processing and cart management.  
 - **Extracting meaningful insights** → Analyzing customer spending patterns, identifying high-value orders, and tracking low-stock products.  
