@@ -17,8 +17,30 @@ The **Courier Management System** is designed to streamline the process of handl
 - Performing **unit testing** to validate system functionality
 
   
-## 🔍 **Case Studies**  
-This section contains project-based learning, including case studies with complete documentation, project files, and analysis reports.  
+## 🔍 **Case Studies : Finance Management System**  
+The **Finance Management System** is designed to help users manage and track their financial transactions efficiently. The project involves:  
+- **Database integration using SQL** for storing transaction records  
+- **Control flow statements, loops, arrays, and collections** for logic implementation  
+- **Exception handling** with user-defined exceptions for error management  
+- **Object-oriented design** to ensure modular and reusable code  
+- **Unit testing** for validating system functionality
+
+  
+## 🛒 **Coding Challenge: E-Commerce**  
+
+In this challenge, I performed various database operations to manage an e-commerce system efficiently. The tasks involved **updating records, retrieving specific data, filtering information using conditions, and utilizing subqueries for complex data retrieval**.  
+
+### 🛠 **Key Operations Performed**  
+- **Modifying product details** → Updating prices, adjusting stock levels, and managing inventory.  
+- **Handling customer orders and cart items** → Ensuring efficient order processing and cart management.  
+- **Extracting meaningful insights** → Analyzing customer spending patterns, identifying high-value orders, and tracking low-stock products.  
+- **Utilizing subqueries** → Finding customers who haven't placed orders, identifying products not in carts, and analyzing data relationships.  
+
+By working with these queries, I gained hands-on experience in managing e-commerce databases, **optimizing business logic**, and making **data-driven decisions** for improved system efficiency. 🚀  
+
+---
+
+Let me know if you'd like any refinements! 😊
 
 ## 📌 **Trello Board**  
 I use Trello to manage my tasks and track progress. Access my workspace here:  
