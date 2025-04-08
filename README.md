@@ -4,19 +4,19 @@ Welcome to my **Training Program Repository**, where I document my  assignments,
 
 ---
 
-## 📝 **Assignments** 
+## **Assignments** 
 
 This section contains my assignment-related work. Currently, I am working on the **Courier Management System**, which focuses on database interaction, control flow statements, object-oriented programming principles, and unit testing.  
 
-### 📦 **Assignment: Courier Management System**  
+### **Assignment: Courier Management System**  
 The **Courier Management System** is designed to streamline the process of handling courier deliveries. The project involves:  
 - Implementing **SQL** for efficient database interaction  
 - Using **control flow statements, loops, arrays, and collections** for logic implementation  
 - Handling **user-defined exceptions** to ensure robust error management  
 - Following **object-oriented principles** with proper class structures  
-- Performing **unit testing** to validate system functionality
 
-## 🔍 **Case Studies: Finance Management System**  
+
+## **Case Studies: Finance Management System**  
 
 This section contains project-based learning, including case studies with complete documentation, project files, and analysis reports. The **Finance Management System** focuses on implementing **SQL, object-oriented principles, control flow statements, exception handling, and unit testing** to build a robust financial tracking solution.  
 
@@ -29,9 +29,9 @@ The **Finance Management System** is designed to help users manage and track the
 - **Unit testing** for validating system functionality
 
   
-## 🛒 **Coding Challenge**  
+## **Coding Challenge**  
 
-### 🛠 **E-Commerce : Key Operations Performed**
+### **E-Commerce : Key Operations Performed**
 In this challenge, I performed various database operations to manage an e-commerce system efficiently. The tasks involved **updating records, retrieving specific data, filtering information using conditions, and utilizing subqueries for complex data retrieval**.  
 
 - **Modifying product details** → Updating prices, adjusting stock levels, and managing inventory.  
@@ -43,16 +43,11 @@ By working with these queries, I gained hands-on experience in managing e-commer
 
 ---
 
-## 📌 **Trello Board**  
+## **Trello Board**  
 I use Trello to manage my tasks and track progress. Access my workspace here:  
 
 🔗 [Trello Workspace](https://trello.com/invite/b/67d27948a43ac3eafe8ab533/ATTI31d7e1201e52bff1fe604b2dce340a06A180F999/hexaware-technical-training)  
 
-## 🎯 **Goals of This Repository**  
-- 📖 Keep a structured record of my learning  
-- 🔗 Store assignments and project files for easy reference  
-- 🚀 Improve documentation and version control skills  
-- 📊 Track progress effectively using Trello  
 
 ---
 
