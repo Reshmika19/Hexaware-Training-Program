@@ -1,5 +1,4 @@
-# Courier Management System 🚚
-
+# Courier Management System
 This repository contains **two versions** of the Courier Management System project, each designed to demonstrate different approaches to data storage and system architecture.
 
 ---
@@ -38,7 +37,7 @@ Both versions follow clean architecture with proper package structuring, reusabl
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Java (JDK 8+)
 - MySQL
 - JDBC
