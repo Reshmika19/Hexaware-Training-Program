@@ -20,7 +20,7 @@ The **Courier Management System** is designed to streamline the process of handl
 
 This section contains project-based learning, including case studies with complete documentation, project files, and analysis reports. The **Finance Management System** focuses on implementing **SQL, object-oriented principles, control flow statements, exception handling, and unit testing** to build a robust financial tracking solution.  
 
-### 🛠 **Case Studies : Finance Management System**  
+### **Case Studies : Finance Management System**  
 The **Finance Management System** is designed to help users manage and track their financial transactions efficiently. The project involves:  
 - **Database integration using SQL** for storing transaction records  
 - **Control flow statements, loops, arrays, and collections** for logic implementation  
@@ -39,20 +39,20 @@ In this challenge, I performed various database operations to manage an e-commer
 - **Extracting meaningful insights** → Analyzing customer spending patterns, identifying high-value orders, and tracking low-stock products.  
 - **Utilizing subqueries** → Finding customers who haven't placed orders, identifying products not in carts, and analyzing data relationships.  
 
-By working with these queries, I gained hands-on experience in managing e-commerce databases, **optimizing business logic**, and making **data-driven decisions** for improved system efficiency. 🚀  
+By working with these queries, I gained hands-on experience in managing e-commerce databases, **optimizing business logic**, and making **data-driven decisions** for improved system efficiency. 
 
 ---
 
 ## **Trello Board**  
 I use Trello to manage my tasks and track progress. Access my workspace here:  
 
-🔗 [Trello Workspace](https://trello.com/invite/b/67d27948a43ac3eafe8ab533/ATTI31d7e1201e52bff1fe604b2dce340a06A180F999/hexaware-technical-training)  
+[Trello Workspace](https://trello.com/invite/b/67d27948a43ac3eafe8ab533/ATTI31d7e1201e52bff1fe604b2dce340a06A180F999/hexaware-technical-training)  
 
 
 ---
 
 
-## ✨ Connect with Me
+## Connect with Me
 - GitHub: [Your GitHub Profile](https://github.com/Reshmika19)
 - LinkedIn: [Your LinkedIn Profile](#https://www.linkedin.com/in/reshmika-k-s-19se/)
 
