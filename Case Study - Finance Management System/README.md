@@ -29,17 +29,13 @@ The project is divided into **7 tasks** that involve:
 
 ## Key Functionalities
 
-1. **User Authentication**  
-   Users can log in to their accounts securely.
+1. **User Authentication**  :  Users can log in to their accounts securely.
 
-2. **Expense Management**  
-   Users can **add**, **view**, **update**, and **delete** their expenses.
+2. **Expense Management**   :  Users can **add**, **view**, **update**, and **delete** their expenses.
 
-3. **Expense Categorization**  
-   Expenses can be categorized into various types (e.g., food, transportation, utilities).
+3. **Expense Categorization**  : Expenses can be categorized into various types (e.g., food, transportation, utilities).
 
-4. **Reports Generation**  
-   Users can generate **custom reports** based on time periods and expense types.
+4. **Reports Generation**  : Users can generate **custom reports** based on time periods and expense types.
 
 5. **Database Connectivity**  
    All data is stored in a **relational database** using **JDBC**, ensuring persistence and real-time interaction.
