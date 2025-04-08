@@ -13,7 +13,7 @@ This folder contains documentation for each task in the **Finance Management Sys
 - **Coding Task 6 - Service Implementation**
 - **Coding Task 7 - JUnit**
 
-## 🗂️ Additional File
+## Additional File
 
 - **DB.sql** – My SQL file containing all the required database scripts.
 
