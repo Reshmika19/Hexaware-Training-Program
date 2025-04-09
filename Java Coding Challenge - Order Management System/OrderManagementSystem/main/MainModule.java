@@ -20,7 +20,7 @@ public class MainModule {
     public static void main(String[] args) {
 
 
-        System.out.println("===== Welcome to Order Management System =====");
+        System.out.println("Order Management System");
         System.out.println("\"Great service begins with great order!\"\n");
 
         int choice;
