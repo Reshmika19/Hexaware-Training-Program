@@ -51,10 +51,3 @@ I use Trello to manage my tasks and track progress. Access my workspace here:
 
 ---
 
-
-## Connect with Me
-- GitHub: [Your GitHub Profile](https://github.com/Reshmika19)
-- LinkedIn: [Your LinkedIn Profile](#https://www.linkedin.com/in/reshmika-k-s-19se/)
-
----
-
