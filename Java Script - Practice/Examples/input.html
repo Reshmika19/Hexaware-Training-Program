@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Input Display Example</title>
+  <style>
+    body {
+      background-color: #534f4f;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      color: white;
+    }
+
+    .box {
+      background: white;
+      padding: 30px 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      width: 300px;
+      text-align: center;
+      color: black;
+    }
+
+    input[type="text"] {
+      padding: 8px;
+      width: 80%;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+
+    button {
+      padding: 8px 20px;
+      background-color: #4c37c6;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    button:hover {
+      background-color: #4c37c6;
+    }
+
+    #output {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h3>Display Text from Input</h3>
+
+    <input type="text" id="userInput" placeholder="Type something here" />
+    <br>
+    <button onclick="displayText()">Show</button>
+  </div>
+
+  <p id="output"></p>
+
+  <script>
+    function displayText() {
+      const input = document.getElementById("userInput").value;
+      document.getElementById("output").innerText = input;
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simple Form Validation</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background-color: #534f4f;
+    }
+
+    form {
+      background: white;
+      padding: 20px 50px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    input[type="text"], input[type="email"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-right: 15px;
+    }
+
+    button {
+      padding: 8px 20px;
+      background-color: #4c37c6;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .error {
+      color: red;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <form onsubmit="return validateForm()">
+    <h3 style="text-align:center;">Simple Form Validation</h3>
+    <div class="error" id="error"></div>
+    <input type="text" id="name" placeholder="Enter your name" />
+    <input type="email" id="email" placeholder="Enter your email" />
+    <br>
+    <button type="submit">LOGIN</button>
+    <br><br>
+  </form>
+
+  <script>
+    function validateForm() {
+      let name = document.getElementById("name").value.trim();
+      let email = document.getElementById("email").value.trim();
+      let errorDiv = document.getElementById("error");
+
+      if (name === "" || email === "") {
+        errorDiv.textContent = "Please fill in all fields.";
+        return false;
+      }
+
+      errorDiv.textContent = ""; 
+      alert("Form submitted successfully!");
+      return true;
+    }
+  </script>
+
+</body>
+</html>

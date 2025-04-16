@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Counter Example</title>
+  <style>
+    body {
+      background-color: #534f4f;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      color: white;
+    }
+
+    .box {
+      background: white;
+      padding: 30px 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      width: 300px;
+      text-align: center;
+      color: black;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #4c37c6;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-top: 20px;
+    }
+
+    button:hover {
+      background-color: #3c2b9a;
+    }
+
+    .counter {
+      font-size: 36px;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h2>Counter</h2>
+    <div class="counter" id="counter">0</div>
+    <button onclick="changeCounter(1)">+</button>
+    <button onclick="changeCounter(-1)">-</button>
+  </div>
+
+  <script>
+    let count = 0;
+    
+    function changeCounter(amount) {
+      count += amount;
+      document.getElementById("counter").innerText = count;
+    }
+  </script>
+
+</body>
+</html>

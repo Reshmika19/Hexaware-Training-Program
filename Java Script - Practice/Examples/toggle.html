@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Toggle Div Visibility</title>
+  <style>
+    body {
+      background-color: #534f4f;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      color: white;
+    }
+
+    .box {
+      background: white;
+      padding: 30px 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      width: 400px;
+      text-align: center;
+      color: black;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #4c37c6;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-top: 20px;
+    }
+
+    button:hover {
+      background-color: #3c2b9a;
+    }
+
+    #toggleDiv {
+      width: 90%;
+      margin-top: 20px;
+      padding: 20px;
+      background-color: #2196F3;
+      color: white;
+      border-radius: 10px;
+      display: block;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h2>Toggle Div Visibility</h2>
+    <button onclick="toggleDiv()">Toggle</button>
+
+    <div id="toggleDiv">
+      This content will appear and disappear when you click the button.
+    </div>
+  </div>
+
+  <script>
+    function toggleDiv() {
+      const div = document.getElementById("toggleDiv");
+      if (div.style.display === "none") {
+        div.style.display = "block";
+      } else {
+        div.style.display = "none";
+      }
+    }
+  </script>
+
+</body>
+</html>
